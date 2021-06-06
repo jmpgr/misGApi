@@ -1,0 +1,4 @@
+rootProject.name = 'GastosApi'
+
+includeFlat 'Gastos'
+
